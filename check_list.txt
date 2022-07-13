@@ -1,0 +1,11 @@
+Registratiom
+-- Email
+-- Social media
+-- Phone number
+
+Profile
+-- Name change
+-- Email change
+-- Password change
+-- Deleting an account
+
